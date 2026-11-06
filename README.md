@@ -1,5 +1,14 @@
 # CV-Mindcare - Privacy-First Wellness Monitor 🌱
 
+> ## ⚠️ Superseded — this repository is archived
+>
+> CV-Mindcare (v1) was a final-year student prototype built by two students with no prior
+> experience. It was rebuilt from the ground up as
+> **[WorkWell](https://github.com/XGradien/WorkWell)** — a single data pipeline, five channels,
+> a demo mode that actually demonstrates the system, 56 passing tests, and CI on GitHub Actions.
+>
+> This repository is kept for historical reference of the original work.
+
 **Local wellness monitoring using camera, microphone, and air quality sensors with AI-powered recommendations.**
 
 [![Tests](https://img.shields.io/badge/tests-302%2F302-brightgreen)](https://github.com/Salman-A-Alsahli/CV-Mindcare/actions)
